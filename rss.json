@@ -1,40 +1,24 @@
 {
   "rss_info": [
     {
+      "title": "GitHub - Javascript",
+      "url": "https://rsshub.app/github/trending/daily/javascript"
+    },
+    {
+      "title": "GitHub - Python",
+      "url": "https://rsshub.app/github/trending/daily/python"
+    },
+    {
+      "title": "2048 - 基地",
+      "url": "https://rsshub.app/2048/bbs/16"
+    },
+    {
+      "title": "AcWifi",
+      "url": "https://rsshub.app/acwifi"
+    },
+    {
       "title": "少数派",
       "url": "https://sspai.com/feed"
-    },
-    {
-      "title": "阮一封的网络日志",
-      "url": "http://feeds.feedburner.com/ruanyifeng"
-    },
-    {
-      "title": "酷壳 coolshell",
-      "url": "https://coolshell.cn/feed"
-    },
-    {
-      "title": "依云's Blog",
-      "url": "https://blog.lilydjwg.me/feed"
-    },
-    {
-      "title": "Winnie 散漫游",
-      "url": "https://winnielife.com/feed/"
-    },
-    {
-      "title": "Airing 的小屋",
-      "url": "https://me.ursb.me/feed"
-    },
-    {
-      "title": "少数派 matrix",
-      "url": "https://rsshub.app/sspai/matrix"
-    },
-    {
-      "title": "五月天微博",
-      "url": "https://rsshub.app/weibo/user/3365597502"
-    },
-    {
-      "title": "阿信微博",
-      "url": "https://rsshub.app/weibo/user/1265020392"
     },
     {
       "title": "Product Hunt",
