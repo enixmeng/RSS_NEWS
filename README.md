@@ -26,4 +26,4 @@ RSS_EVERYDAY 是一个 RSS 订阅工具，它会每四小时采集一次新的�
 
 此项目是基于 Github Action 的定时任务实现的，并且只会在达到设定时间的情况下才会触发 Action。此 Action 不会被推送代码等操作主动触发。
 
-测试Action
+测试
